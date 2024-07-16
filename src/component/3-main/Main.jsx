@@ -6,7 +6,7 @@ import { AnimatePresence, motion, spring } from "framer-motion"
 
 const myproject = [
   {protitle:'disney project',categoty:['css','js','html'],imgPath:'project4.png',link:'https://abdullrahman-2.github.io/disney/'},
-  {protitle:'Electro-ecommerce',categoty:['css','js','html','react' ],imgPath:'project15.png',link:'https://electro-ecommerce-2.netlify.app/'},
+  {protitle:'Electro-ecommerce',categoty:['css','js','html','react'],imgPath:'project15.png',link:'https://electro-ecommerce-2.netlify.app/'},
   {protitle:'Institute-of-Technology',categoty:['css','js','html'],imgPath:'project14.png',link:'https://abdullrahman-2.github.io/Institute-of-Technology/'},
   {protitle:'crud-Ecommerce',categoty:['css','js','html','react'],imgPath:'project13.png',link:'https://crud-ecommerece.surge.sh/'},
   {protitle:'Ecommerce-courses',categoty:['css','js','html'],imgPath:'project11.png',link:'https://abdullrahman-2.github.io/ecommerce-courses/'},
